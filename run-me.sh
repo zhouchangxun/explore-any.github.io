@@ -1,1 +1,1 @@
-echo 'I like this' >> /etc/check.log
+echo 'I like this' >> /tmp/check.log
